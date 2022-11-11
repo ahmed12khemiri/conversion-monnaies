@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="tv">Conversion de monnaie</string>
+    <string name="resultat"> Result :</string>
+    <string name="eur_dt">Euro To DT</string>
+    <string name="dt_eur">DT To Euro</string>
+    <string name="btn">Convert</string>
+</resources>
